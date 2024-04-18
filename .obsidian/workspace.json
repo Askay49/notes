@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C/Структуры.md",
+                "file": "Programming/C/Структуры (struct).md",
                 "mode": "preview",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "c364267493931fcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/Типы данных.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/Типы данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/C/Типы данных.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +153,9 @@
   },
   "active": "c364267493931fcb",
   "lastOpenFiles": [
-    "Programming/C/Структуры.md",
+    "Programming/C/Структуры (struct).md",
     "Programming/C/Объединения (union).md",
+    "Programming/C/Перечисление (enum).md",
     "Programming/C/Типы данных.md",
     "Untitled Kanban.md",
     "Programming/C",
